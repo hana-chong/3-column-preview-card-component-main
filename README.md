@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/3ComponentDesktop.png) (./images/3ComponentMobile.png)
+![](./images/3ComponentDesktop.png) 
 
 
 ### Links
